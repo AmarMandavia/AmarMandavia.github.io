@@ -41,5 +41,4 @@ sections:
           - PTSD
     design:
       columns: '1'
-  ---
-  
+---
