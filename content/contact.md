@@ -9,8 +9,6 @@ sections:
       title: Contact
       subtitle:
       text: " "
-
-.
       # Contact (add or remove contact options as necessary)
       appointment_url: 'https://calendly.com/amarmandavia'
 <!-- Calendly badge widget begin -->
