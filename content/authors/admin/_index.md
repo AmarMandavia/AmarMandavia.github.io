@@ -3,6 +3,7 @@ title: Amar D. Mandavia
 
 # Name pronunciation (optional)
 name_pronunciation: aam-ar
+url: https://app2.nameshouts.com/names/public/pronounce-amar
 
 # Full name (for SEO)
 first_name: Amar
